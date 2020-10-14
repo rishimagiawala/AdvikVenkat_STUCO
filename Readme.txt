@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+Website for Advik Venkat Student Council Nominee for Secretary.
 
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Best of Luck Advik!
